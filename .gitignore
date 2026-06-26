@@ -1,0 +1,8 @@
+# Environment
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Teaching material — kept local, out of the repo
+ROADMAP.md
